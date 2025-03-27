@@ -1,4 +1,4 @@
-## My Project
+## Stream ingest data from Kafka to Amazon Bedrock Knowledge Bases using custom connectors
 Sample showing how users can stream ingest data into Amazon Bedrock Knowledge Bases.
 
 ## Security
