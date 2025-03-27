@@ -1,11 +1,5 @@
 ## My Project
-
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+Sample showing how users can stream ingest data into Amazon Bedrock Knowledge Bases.
 
 ## Security
 
